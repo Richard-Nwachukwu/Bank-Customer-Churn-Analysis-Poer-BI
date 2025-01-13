@@ -22,6 +22,10 @@ The primary objective is to analyze customer churn and identify key factors infl
 
 3. Recommendations for churn prevention and customer retention.
 
+### Dashboard 1
+
+![image alt](https://github.com/Richard-Nwachukwu/Bank-Customer-Churn-Analysis-Poer-BI/blob/ac54f9d90ee21831b14fd8d3c38e791d8033f168/Bank%20Churn%20Dashboard%201.png)
+
 ## Key Insights
 
 ### 1. Customer Overview
